@@ -1,10 +1,3 @@
----
-title: "Informations"
-author: "Barbara Dalmaso"
-date: "11/18/2020"
-output: html_document
----
-
 # Developing Data Products - Shiny Application and Reproducible Pitch
 
 ## Overview
@@ -65,7 +58,7 @@ ggplot(aes(x=actual, y=prediction),data=data.frame(actual=testdata$Price, predic
    geom_point() +geom_abline(color="red") +ggtitle("RandomForest Regression in R" )
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png) 
+![plot of chunk unnamed-chunk-2](figures/unnamed-chunk-2-1.png) 
 
 The shiny appication I developed has been published in shiny server at [https://bdalmaso.shinyapps.io/diamondsapp/](https://bdalmaso.shinyapps.io/diamondsapp/).     
 To reproduce the shiny application on your local system, you need to install the relevent packages (caret and randomForest) and download diamond dataset, server.R and ui.R from github [repository](https://github.com/barbaradalmaso/DevelopingDataProject/).     
