@@ -6,4 +6,4 @@
 
 3. The Pitch Presentation can found at [https://rpubs.com/bdalmaso/692634](https://rpubs.com/bdalmaso/692634) (Note: May need to reload the URL, sometimes page may not open if you click on the link).
 
-4. To get more informations about the application, click [https://github.com/barbaradalmaso/DevelopingDataProject/blob/main/Informations.md] (here).
+4. To get more informations about the application, click [here](https://github.com/barbaradalmaso/DevelopingDataProject/blob/main/Informations.md).
